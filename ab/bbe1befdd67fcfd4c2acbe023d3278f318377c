@@ -1,0 +1,64 @@
+Source/Common/JOSE.Providers.Default.pas
+  s_df922d9dccc14d::t_121b043ae36dc4 873-894
+  s_df922d9dccc14d::t_9eaf595a8c6ea3 978-982
+  s_df922d9dccc14d::t_b08eb0cc4c21d4 1002,1017-1020,1027-1028,1037
+  s_df922d9dccc14d::t_c581492b3beea2 1004-1006
+Tests/Source/JOSE.Tests.Providers.pas
+  s_df922d9dccc14d::t_790a5dbeb8ad24 63
+  s_df922d9dccc14d::t_f654cb0f13107a 256,266,271-273
+  h_878efc035442cc 267-270
+  s_df922d9dccc14d::t_54c8576450003f 151
+  s_df922d9dccc14d::t_adb7be8ce9c8f6 75-80
+  s_df922d9dccc14d::t_63ea00ef23e463 148,150
+README.md
+  s_df922d9dccc14d::t_42b89f040ae2a2 168
+  s_df922d9dccc14d::t_7dfd4d150cd792 58
+  s_df922d9dccc14d::t_c350718343aa5c 97
+Tests/Source/JOSE.Tests.CryptoLib.pas
+  s_df922d9dccc14d::t_829e38c5b359d6 154-158
+  s_df922d9dccc14d::t_24c3ca32e2cd6e 220,225,230,249,271,287,302,319,337,356,374,389,428,469,491,509,534,562,589
+  s_df922d9dccc14d::t_2ad426a8c4d1b3 221-224,226-229,231-248,250-270,272-286,288-301,303-318,320-336,338-355,357-373,375-388,390-427,429-468,470-490,492-508,510-533,535-561,563-588,590-620
+  s_df922d9dccc14d::t_51c8f5f9dee22a 34,37,66-147
+  s_df922d9dccc14d::t_64af131835c89c 45-50,59
+Source/Common/JOSE.Providers.CryptoLib.pas
+  s_df922d9dccc14d::t_43febb48f3782c 845-858,860-863,865-867,869-876,884-894,903-904,907-908,910-962,964-969,971,974-1004,1007-1008,1010-1013,1015-1022
+  s_df922d9dccc14d::t_60c54b8a09a256 859
+  s_df922d9dccc14d::t_4c28bee228baa6 864,868,877-883
+  s_df922d9dccc14d::t_94f7255835060e 156
+  s_df922d9dccc14d::t_419be1d73f941a 269
+  s_df922d9dccc14d::t_9423c24fec604c 100-116,119,222,271
+  s_df922d9dccc14d::t_74eacbb195512d 533,895-902,905-906,909,1005-1006,1009,1014
+  s_df922d9dccc14d::t_1dcbc6df955e3c 970,972-973
+  s_df922d9dccc14d::t_823462528f478d 1035-1036
+  s_df922d9dccc14d::t_14377018003205 150,152-155
+  s_df922d9dccc14d::t_bfa7a692bf067d 963
+  s_df922d9dccc14d::t_8e3e175de9a739 212-218,223
+  s_df922d9dccc14d::t_71485ca069781b 219-221,224-231,234,253-262,265,268
+  s_df922d9dccc14d::t_cdffaf3cda49d2 235-252,263-264,266-267,270
+  s_df922d9dccc14d::t_c81f83074063a3 184-194
+  s_df922d9dccc14d::t_a5248ff89d46e0 469-516
+Tests/Source/JOSE.Tests.JWK.pas
+  s_df922d9dccc14d::t_4b1ec1c4ad1c4e 223
+  s_df922d9dccc14d::t_38f58d71624d57 232
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.19",
+  "base_commit_sha": "abbbe1befdd67fcfd4c2acbe023d3278f318377c",
+  "prompts": {},
+  "humans": {
+    "h_878efc035442cc": {
+      "author": "Ugochukwu Mmaduekwe <ugo4brain@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_df922d9dccc14d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8e341940-1662-4eac-b724-644a9808a1c3",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Ugochukwu Mmaduekwe <ugo4brain@gmail.com>"
+    }
+  }
+}
